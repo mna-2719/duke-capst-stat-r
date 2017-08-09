@@ -32,7 +32,7 @@ ggplot(ames_train_age, aes(x = age)) + geom_histogram()
 
 * * *
 
-The distribution is **right-skewed* and *bimodal**, with a **mean of around 45 years**.
+The distribution is **right-skewed** and **bimodal**, with a **mean of around 45 years**.
 
 * * *
 
